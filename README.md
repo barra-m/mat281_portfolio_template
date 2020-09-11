@@ -11,8 +11,9 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Personal
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/barra-m/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/barra-m/mat281_portfolio/master?urlpath=lab)
 
+Matías Barra
 ### Setup
 
 Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
