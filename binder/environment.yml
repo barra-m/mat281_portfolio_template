@@ -1,4 +1,4 @@
-name: mat281_template
+name: mat281_portfolio
 channels:
   - conda-forge
   - defaults
